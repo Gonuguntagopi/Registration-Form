@@ -48,18 +48,4 @@ git clone https://github.com/your-username/your-repo-name.git
 * **JavaScript**
 * **Bootstrap 5**
 
-## 🙌 Author
-
-\[Your Name]
-\[Your GitHub Profile Link]
-
----
-
-### Copy-Paste Ready ✅
-
-Would you like me to help you with:
-
-* Adding a screenshot section?
-* Providing Git commands to push this project to GitHub?
-
-Let me know!
+ 
